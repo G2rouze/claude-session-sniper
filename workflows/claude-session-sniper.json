@@ -29,7 +29,7 @@
     },
     {
       "parameters": {
-        "command": "claude -p \"Hello\""
+        "command": "/home/node/.npm-global/bin/claude -p \"Hello\""
       },
       "id": "execute-command",
       "name": "Execute Command",
